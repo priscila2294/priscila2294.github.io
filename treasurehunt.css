@@ -1,0 +1,16 @@
+body{
+  background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/stsci-h-p2001a-m-2000x1500_0.png");
+  font-family: 'Anton', sans-serif;
+  display:flex;
+  justify-content: center;
+  flex-direction:column;
+  align-items: center;
+  color: white;
+  }
+  a:hover {
+    background-color: white;
+    color: red;
+  }
+  td:hover{
+    background-color: white;
+  }
